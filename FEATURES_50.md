@@ -1,0 +1,54 @@
+# 50-feature target roadmap
+
+- [ ] 1. Professional Home Dashboard
+- [ ] 2. Modern Responsive Website Design
+- [ ] 3. Sidebar Navigation with Feature Categories
+- [ ] 4. Light and Dark Themes
+- [ ] 5. Interactive Dashboard Cards with Key Statistics
+- [ ] 6. Property Listing Cards with Images
+- [ ] 7. Property Search and Advanced Filters
+- [ ] 8. English and Telugu Language Options
+- [ ] 9. Smart House Price Prediction
+- [ ] 10. Prediction Based on Area, Bedrooms, and Bathrooms
+- [ ] 11. Multiple Property Type Support
+- [ ] 12. Bulk Price Prediction Using Excel or CSV
+- [ ] 13. Asking Price vs. Predicted Price Comparison
+- [ ] 14. Overpriced and Underpriced Property Detection
+- [ ] 15. Price per Square Foot Calculator
+- [ ] 16. Prediction Uncertainty and Reliability Alerts
+- [ ] 17. What-If Price Simulation
+- [ ] 18. Individual Prediction Explanation
+- [ ] 19. Multiple ML Model Comparison
+- [ ] 20. Automatic Best Model Selection
+- [ ] 21. Hyperparameter Optimization
+- [ ] 22. Cross-Validation
+- [ ] 23. Feature Importance Visualization
+- [ ] 24. Explainable AI Using SHAP
+- [ ] 25. Automated Data Preprocessing Pipeline
+- [ ] 26. Feature Engineering
+- [ ] 27. Data Leakage Detection
+- [ ] 28. Outlier and Anomaly Detection
+- [ ] 29. Model Monitoring and Data Drift Detection
+- [ ] 30. Automated Model Training and Version Tracking
+- [ ] 31. Area-Wise Price Analysis
+- [ ] 32. Interactive Property Map
+- [ ] 33. Historical Price Trends and Future Price Forecasting
+- [ ] 34. Neighborhood Comparison Dashboard
+- [ ] 35. Property Affordability Score
+- [ ] 36. Mortgage and EMI Calculator
+- [ ] 37. Buy-versus-Rent Calculator
+- [ ] 38. Investment and Rental Yield Calculator
+- [ ] 39. Renovation Cost and Property Value Simulator
+- [ ] 40. Data Quality Checker
+- [ ] 41. SQL Database Integration with MySQL
+- [ ] 42. User Login and Secure Authentication
+- [ ] 43. Saved Favorites and Property Shortlists
+- [ ] 44. Persistent Prediction History
+- [ ] 45. Downloadable PDF Property Valuation Report
+- [ ] 46. Excel and CSV Export
+- [ ] 47. AI Real-Estate Chatbot
+- [ ] 48. REST API Using FastAPI
+- [ ] 49. Automated Testing and GitHub Actions
+- [ ] 50. Online Deployment with a Public Demo URL
+
+Note: This is a target roadmap, not a claim that every item is fully production-ready. Some features are implemented as educational demos or templates; see README for limitations.
