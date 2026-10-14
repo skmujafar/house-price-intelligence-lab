@@ -1,3 +1,4 @@
+
 # House Price Intelligence Lab — Advanced Portfolio Project
 
 Dataset will be downloaded on first run (network needed).
@@ -42,3 +43,7 @@ API docs: http://127.0.0.1:8000/docs
 - Rental yield/ROI values are user-entered scenarios, not ground-truth market data.
 - Drift monitoring compares current uploaded data with the training data distribution; it needs new data to be meaningful.
 - SHAP is optional and requires installation; if unavailable, the app still works without SHAP.
+=======
+# house-price-intelligence-lab
+House Price Intelligence Lab using Machine Learning and Streamlit
+>>>>>>> 8dbae3967b0c233320e7710d2db722dd8a414826
